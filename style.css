@@ -339,7 +339,7 @@ html {
   visibility: hidden;
 }
 
-.skills-link:hover .food-description {
+.skills-link:hover .skill-description {
   opacity: 1;
   visibility: visible;
   transition: opacity 0.1s 0.3s;
